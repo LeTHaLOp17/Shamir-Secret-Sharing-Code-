@@ -1,5 +1,5 @@
 # Shamir-Secret-Sharing-Code-
-Shamir Secret Sharing Code with JSON Input Parsing and BigInteger Conversion
+For SS Check Output.jpg
 # **OutPut** 
 # Processing file 1:
 - x: 1, y: 4
